@@ -8,7 +8,8 @@ def main():
           \nSelect the function from the given options
           1. Add
           2. Subtract
-          3. Multiply\n
+          3. Multiply
+          4. Division\n
           """
     )
 
