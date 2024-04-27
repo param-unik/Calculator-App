@@ -25,6 +25,8 @@ def main():
         result = do_subtract(input1, input2)
     elif user_input == "3":
         result = do_multiply(input1, input2)
+    elif user_input == "4":
+        result = do_division(input1, input2)
     else:
         print("Wrong input. Rerun the app!")
 
